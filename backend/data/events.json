@@ -1,1 +1,29 @@
-[{"id":"e1","title":"Board Game Night","description":"Come join us for some amazing board game sessions. Card games too :)","date":"2024-10-25","time":"18:00","location":"Games R Us, Boston, MA","image":"the-distance.jpg"},{"id":"e2","title":"Play Cyberpunk 2077!","description":"We've just purchased Cyberpunk 2077 (and the Phantom Liberty DLC). Come try it out!","date":"2024-05-21","time":"16:30","location":"OP Cafe, Seattle, WA","image":"faith-leap.jpg"},{"id":"e3","title":"Gamers Unite","description":"Play video games with friends and strangers! All consoles provided free of charge!","date":"2023-11-03","time":"18:30","location":"The New Gaming Studio, Austin, TX","image":"meeting.jpg"}]
+[
+  {
+    "id": "e1",
+    "title": "Board Game Night",
+    "description": "Come join us for some amazing board game sessions. Card games too :)",
+    "date": "2024-10-25",
+    "time": "18:00",
+    "location": "Games R Us, Boston, MA",
+    "image": "the-distance.jpg"
+  },
+  {
+    "id": "e2",
+    "title": "Play Cyberpunk 2077!",
+    "description": "We've just purchased Cyberpunk 2077 (and the Phantom Liberty DLC). Come try it out!",
+    "date": "2024-05-21",
+    "time": "16:30",
+    "location": "OP Cafe, Seattle, WA",
+    "image": "faith-leap.jpg"
+  },
+  {
+    "id": "e3",
+    "title": "Gamers Unite",
+    "description": "Play video games with friends and strangers! All consoles provided free of charge!",
+    "date": "2023-11-03",
+    "time": "18:30",
+    "location": "The New Gaming Studio, Austin, TX",
+    "image": "meeting.jpg"
+  }
+]
